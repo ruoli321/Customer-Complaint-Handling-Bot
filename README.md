@@ -37,17 +37,9 @@
 
 ## 效果展示
 
-**① 启动浏览器与登录引导** —— 启动后自动打开中通官网并定位登录入口，GUI 实时输出流程日志，登录后一键继续：
-
-![启动浏览器与登录引导](docs/screenshots/01-launch-browser.png)
-
-**② 进入客服页，AI 自动回复就绪** —— 直达在线客服页，自动检测聊天输入框与客服消息（已识别 2 条），启动 AI 自动回复，客服回复将转交 Dify 分析并生成回复：
-
-![进入客服页](docs/screenshots/02-agent-page-ready.png)
-
-**③ 真实对话实战** —— 自动发送追责话术并以"输入框清空"校验送达成功，实时解析客服回复（含按钮诊断），交由 Dify 分析下一轮应答策略：
-
-![真实对话实战](docs/screenshots/03-ai-conversation.png)
+| 启动浏览器与登录引导 | 进入客服页 · AI 自动回复就绪 | 真实对话实战 |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/01-launch-browser.png" width="300"/> | <img src="docs/screenshots/02-agent-page-ready.png" width="300"/> | <img src="docs/screenshots/03-ai-conversation.png" width="300"/> |
 
 ## 目录结构
 
